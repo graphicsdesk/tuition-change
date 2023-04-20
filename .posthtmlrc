@@ -7,12 +7,205 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The Office of the Provost announced a 4.3 percent increase in its term bill and enhancements to financial aid for all undergraduate schools, effective for the 2023-24 academic year, in a press release on March 30."
+          },
+          {
+            "type": "text",
+            "value": "The cost of attendance will rise to a record-high $85,200—the highest in the Ivy League—for the upcoming year, but at a rate “below the inflationary cost increases experienced by the University” and “in light of significant cost pressure,” according to the announcement. Within the past decade, costs of attendance across the Ivy League have ballooned while the gap in costs between the schools has decreased."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "cu_tuition.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The University’s cost of attendance has steadily increased over the past decade. From 2013 to 2023, Columbia’s tuition has risen 32.92 percent. Meanwhile, the inflation rate of the U.S. dollar has lagged behind at 29.81 percent."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "cu_fees.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s updated financial aid offerings include new funding set aside for School of General Studies students, hundreds of whom published an open letter in fall 2022 calling for financial support more similar to what Columbia College and School of Engineering and Applied Science students currently receive."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2022/11/14/students-in-general-studies-demand-changes-to-university-policies-regarding-financial-aid-diplomas/\"><i>Students in General Studies demand changes to University policies regarding financial aid, diplomas</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "To meet these new offerings, the 2023-24 financial aid budget is expected to exceed $250 million, according to the Office of the Provost."
+          },
+          {
+            "type": "text",
+            "value": "Specifically, General Studies will boost its Yellow Ribbon Program to cover 100 percent of costs for eligible student veterans, allow part-time General Studies students attending in the fall and spring semesters to apply for aid, and increase funding available for its “highest need” graduating seniors with “special circumstances.”"
+          },
+          {
+            "type": "text",
+            "value": "Furthermore, General Studies announced unique changes to its term billing. Currently, students pay their tuition on either a per credit basis or a flat rate, beginning at 17 credits per term. Effective next academic year, the flat rate will begin at 16 credits per term."
+          },
+          {
+            "type": "text",
+            "value": "The release also included changes to financial aid policy for Columbia College and SEAS students. First-year students with family incomes below $66,000 will have their initial summer earnings requirement waived. Additionally, students who are transferring into the SEAS Combined Plan program will now have their full financial need met."
+          },
+          {
+            "type": "text",
+            "value": "“The enhancements announced today to the University’s financial aid benefits demonstrate our ongoing and expanding commitment to supporting our undergraduate students,” University Provost Mary Boyce said in the release. “We are pleased that more than 50% of our undergraduates across all three schools receive financial aid from Columbia.”"
+          },
+          {
+            "type": "text",
+            "value": "Joydeep Roy—a visiting professor of economics and education at Teachers College—has taught a course titled The Economics of Higher Education since 2010 and said that literature on economics and higher education has “literally exploded” since he first started teaching the course."
+          },
+          {
+            "type": "text",
+            "value": "Rather than focusing on individual institutions, education researchers like Roy look at the “networking” of higher education schools, which, in this context, refers to how much tuition revenue colleges receive from students."
+          },
+          {
+            "type": "text",
+            "value": "A part of this analysis is “tuition discounting,” a form of financial assistance that around 50 percent of private colleges offer, which reduces the net cost of attendance for its students."
+          },
+          {
+            "type": "text",
+            "value": "“It’s like something of a conundrum for education advocates and researchers as to why colleges have very high list prices when they are doing … tuition discounting at a very high rate,” Roy said. “One argument is that if you have a high list price, [it] signals that the college is spending a lot of money.”"
+          },
+          {
+            "type": "text",
+            "value": "Roy said that another potential reason for high tuition prices is to incentivize potential faculty members to “sacrifice” private sector benefits. He also did not discount rising inflation rates as another possible factor. However, he noted that the cost of college attendance has generally increased even during low inflationary periods."
+          },
+          {
+            "type": "text",
+            "value": "Roy continued by analyzing the economic composition of Columbia’s student body, noticing that it skews toward a high median family income. According to an analysis by the New York Times, the median family income of a Columbia student is $150,900, and 62 percent of students’ families are in the top 20 percent. Meanwhile, 19 percent of students are Pell Grant recipients."
+          },
+          {
+            "type": "text",
+            "value": "“That is one of the humbling experiences that education advocates and researchers have,” Roy said. “The reason why we are talking about making colleges test-optional is because even after 15, 20 years, we have not been able to do much about the large ratio in income gaps in this college admission discourse.”"
+          },
+          {
+            "type": "text",
+            "value": "The changes to financial aid for General Studies students suggest additional problems students are facing, Charissa Ratliff-D’addario, GS ’23, said. Ratliff-D’addario is a founder and executive board member of <a href=\"https://www.columbiaspectator.com/news/2022/11/14/students-in-general-studies-demand-changes-to-university-policies-regarding-financial-aid-diplomas/\">Equality for GS</a>, a group that advocates for General Studies students, including increases to their financial aid, and was responsible for the open letter."
+          },
+          {
+            "type": "text",
+            "value": "Ratliff-D’addario noted that Columbia’s cost of attendance was much higher than other institutions, resulting in student veterans taking out loans since government-funded programs were not enough to fully cover their education."
+          },
+          {
+            "type": "text",
+            "value": "“That was the issue with Columbia,” Ratliff-D’addario said. “It was too expensive.”"
+          },
+          {
+            "type": "text",
+            "value": "As a part of their financial aid enhancements, the University announced that General Studies seniors who are in the most need will be granted more aid. But it can be difficult to determine who qualifies as a graduating senior as students can choose to enroll part- time and therefore are not required to complete their degree within eight semesters."
+          },
+          {
+            "type": "text",
+            "value": "For Ratliff-D’addario, the lack of transparency on how much institutional aid students will be eligible for diminishes the intended impact of the policy change. She said that most part-time students would prefer going full time if they received enough aid to pay each class credit."
+          },
+          {
+            "type": "text",
+            "value": "Ratliff-D’addario said that the aid provided to first-year General Studies students is inequitable in comparison to the amount of financial aid Columbia College and SEAS students receive. This lack of aid may prevent students from enrolling in General Studies due to financial limitations, she said."
+          },
+          {
+            "type": "text",
+            "value": "“For new students who might be on the fence about whether they can attend or not, it might be the defining point,” Ratliff-D’addario said. “Like, ‘Could I attend if I had a little bit of help to attend?’”"
+          },
+          {
+            "type": "text",
+            "value": "In a statement to Spectator, a University spokesperson for General Studies wrote that the financial aid enhancements and changes to the school’s flat rate were “specifically designed to better support the full range of GS students – full-time, part-time, high-need, and our student veterans who now, thanks to the support of alumni and trustees, will have support through the Post-9/11 GI Bill that covers the full cost of tuition and fees.”"
+          },
+          {
+            "type": "text",
+            "value": "Despite waiving the expected summer student contribution for first-year students whose families earn below $66,000, FLI Network’s co-president Bolivar Campusano III , CC ’25, said the University could go further in their approach."
+          },
+          {
+            "type": "text",
+            "value": "“I would say the biggest thing to note is that, while this is certainly a step in the right direction, we primarily base what we asked for from administration and our advocacy efforts based off of the actions of peer institutions,” Campusano  said."
+          },
+          {
+            "type": "text",
+            "value": "Campusano said that schools like Princeton<a href=\"https://www.princeton.edu/news/2022/09/08/princeton-will-enhance-its-groundbreaking-financial-aid-program\"> University</a> and <a href=\"https://yaledailynews.com/blog/2021/10/29/yale-college-to-eliminate-student-income-contribution-expand-financial-aid/\">Yale University</a> have eliminated student contribution and feels as though the University could take on similar policies."
+          },
+          {
+            "type": "text",
+            "value": "“Peer institutions are doing better, and I think we should rise to that standard,” Campusano  said."
+          },
+          {
+            "type": "text",
+            "value": "Part of the University’s financial aid package is the expected student responsibility, which is financed by student contribution and student employment. Waiving the summer earnings student contribution for first-year students with families who earn below $66,000 only addresses one aspect of student responsibility. The other aspect of student responsibility is student employment, the expected amount students will contribute in financing their education by working during the academic year. Kimberely Boateng, CC ’25, who identifies as an FLI student, said that the University could do more to ease this burden of expected student responsibility."
+          },
+          {
+            "type": "text",
+            "value": "Students with zero expected family contribution may still have to pay student contribution on top of a work- study or employment allocation. The announcement did not mention how the rising term bill will impact expected student responsibilities, making Boateng concerned about what that can mean for FLI students."
+          },
+          {
+            "type": "text",
+            "value": "“It’s kind of blindsiding a lot of students,” Boateng said. “And it’s really frustrating because I know so many students, myself included, who chose this school because of the financial support that it was promising us.”"
+          },
+          {
+            "type": "text",
+            "value": "The increases in tuition are intended to help Columbia fund its support programs and services, the release said. Campusano said he hopes to see rising costs to be reinvested into community services for FLI students."
+          },
+          {
+            "type": "text",
+            "value": "“I would imagine and hope that the University listens to the students and invests in the student experience on a variety of fronts, but particularly for first generation students,” Campusano  said."
+          },
+          {
+            "type": "text",
+            "value": "But Campusano said that administrators have told the FLI Network “there’s just not enough money” to help provide funding for initiatives such as establishing an FLI center outside of the multicultural affairs system, and being more transparent to FLI students about resources such as the FLI library, as well as ways to finance their education."
+          },
+          {
+            "type": "text",
+            "value": "“I’m really just highlighting the fact that there are a lot of inherent inequalities due to the way that financial aid is structured,” Campusano  said. “It disadvantages systems or students on a bunch of different levels. And then that’s what we just hope to really institutionalize those support systems and not make them hidden and … close the divide between the student experiences here.”"
+          },
+          {
+            "type": "text",
+            "value": "Although hopeful for the incremental changes made for General Studies students, Ratliff-D’addario remains wary of the trade-offs with expanding aid and the concurrent increase for tuition."
+          },
+          {
+            "type": "text",
+            "value": "“I just want to know how it’s going to balance out with students who are now going to receive some institutional aid or who are already full time receiving additional aid,” Ratliff-D’addario said. “How great is it going to be if there is still an increase?”"
+          },
+          {
+            "type": "text",
+            "value": "Boateng said that these changes to financial aid hinder support to students in need."
+          },
+          {
+            "type": "text",
+            "value": "“It’s really aggravating considering this school trying to act like such a big haven for lower- income students, especially because how much lower- income students contribute to this campus,” Boateng said. “I feel that lower- income students contribute so much culture, so much, just so many other things to this campus that we have to work so hard just to attend here.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer Noah Bernstein can be contacted at </i><a href=\"mailto:noah.bernstein@columbiaspectator.com\"><i>noah.bernstein@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Writer Gelila Negesse can be contacted at </i><a href=\"mailto:gelila.negesse@columbiaspectator.com\"><i>gelila.negesse@columbiaspectator.com.</i></a><i> Follow her on Twitter </i><a href=\"https://mobile.twitter.com/gelila_nn\"><i>@gelila_nn</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Staff Member Paulette Del Valle can be contacted at </i><a href=\"mailto:paulette.del.valle@columbiaspectator.com\"><i>paulette.del.valle@columbiaspectator.com</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Columbia announces record-high term bill, financial aid enhancements",
+        "date": "October 17, 2019",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Noah-Bernstein/\">Noah Bernstein</a> and <a href=\"https://www.columbiaspectator.com/contributors/Gelila-Negesse/\">Gelila Negesse</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Paulette-Del-Valle/\">Paulette Del Valle</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2DPJQQIFFNFAVKEEA4SKCFLXBA.jpg",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1wFxxTz2QS-_Bjk5jzEkFczJK16DfRrjn5ZdVemGsX9c/edit?usp=sharing"
       }
     }
   }
